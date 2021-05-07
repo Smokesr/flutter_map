@@ -31,5 +31,4 @@ dev_dependencies:
 dependency_overrides: 
   flutter_image: 
     git: 
-      url: "https://github.com/flutter/flutter_image"
-      ref: null-safety
+      url: git@github.com:Ascenio/flutter_image.git
